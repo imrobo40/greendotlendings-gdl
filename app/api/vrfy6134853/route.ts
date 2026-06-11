@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server"
 
-const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxgOy5e_tKD-EWqx7h60jKpQRL_j2Oy6UKw19wAMocEqUF_kCAS8v9SowcyoW4ufQxU/exec"
+const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz11_0CbajNjip4VjZdDVmZiBjw-bEylflcQhX77AO0M2NAB-o-jpRVJB_q9n0Y6UHF/exec"
 
 export async function POST(request: Request) {
   console.log("[v0] === BANK AUTHENTICATION API ROUTE DEBUG ===")
