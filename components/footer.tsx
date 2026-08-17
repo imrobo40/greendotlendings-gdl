@@ -10,9 +10,9 @@ export function Footer() {
             <Image
               src="/logo.png"
               alt="greendot Lending - Personal Loans"
-              width={200}
-              height={50}
-              className="h-12 w-auto object-contain mb-4"
+              width={240}
+              height={68}
+              className="h-14 w-auto max-w-[240px] object-contain mb-4"
             />
             <p className="text-gray-400 text-sm">
               America's trusted online personal finance service, providing fixed-rate loans with competitive terms.
