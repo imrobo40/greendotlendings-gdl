@@ -22,16 +22,16 @@ export function Header() {
   return (
     <header className="bg-white shadow-sm border-b">
       <div className="container mx-auto px-4">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
               src="/logo.png"
               alt="greendot Lending - Personal Loans"
-              width={140}
-              height={40}
+              width={240}
+              height={68}
               priority
-              className="h-10 w-auto object-contain"
+              className="h-14 w-auto max-w-[240px] object-contain"
             />
           </Link>
 
