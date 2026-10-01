@@ -113,7 +113,7 @@ export default function AutoRefinancingPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Lower Your Car Payment?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            See how much you could save with auto loan refinancing from Green Dot Lending.
+            See how much you could save with auto loan refinancing from Green Dot Finance.
           </p>
           <Button size="lg" className="bg-white text-purple-600 hover:bg-gray-100">
             Check Your Rate Now

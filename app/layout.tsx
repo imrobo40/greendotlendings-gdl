@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Green Dot Lending - Personal Loans with No Fees",
+  title: "Green Dot Finance - Personal Loans with No Fees",
   description:
-    "Get a personal loan up to $100,000 with competitive rates, no fees, and fast funding. Apply online in minutes with Green Dot Lending.",
+    "Get a personal loan up to $100,000 with competitive rates, no fees, and fast funding. Apply online in minutes with Green Dot Finance.",
   generator: "v0.dev",
 }
 

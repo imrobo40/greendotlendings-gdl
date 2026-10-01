@@ -87,9 +87,9 @@ export default function TermsPage() {
                 If you have any questions about these Terms of Service, please contact us:
               </p>
               <div className="text-gray-600">
-                <p>Email: greendotlending1@gmail.com</p>
-                <p>Phone: (850) 270-8634</p>
-                <p>Mail: Green Dot Lending Legal Department, P.O. Box 6000, Charlotte, NC 28285</p>
+                <p>Email: greendotfinance16@gmail.com</p>
+                <p>Phone: ‪(619) 356-8731</p>
+                <p>Mail: Green Dot Finance Legal Department, P.O. Box 6000, Charlotte, NC 28285</p>
               </div>
             </section>
           </div>

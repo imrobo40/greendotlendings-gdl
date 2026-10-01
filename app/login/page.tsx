@@ -114,10 +114,10 @@ export default function LoginPage() {
                   <h3 className="font-semibold text-gray-800 mb-3">Need Help?</h3>
                   <div className="space-y-2 text-sm">
                     <p className="text-gray-600">
-                      <strong>Phone:</strong>(850) 270-8634
+                      <strong>Phone:</strong>‪(619) 356-8731
                     </p>
                     <p className="text-gray-600">
-                      <strong>Email:</strong>greendotlending1@gmail.com
+                      <strong>Email:</strong>greendotfinance16@gmail.com
                     </p>
                     <p className="text-gray-600">
                       <strong>Hours:</strong> Mon-Fri 8am-11pm ET

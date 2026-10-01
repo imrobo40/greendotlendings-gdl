@@ -12,9 +12,9 @@ export default function HowItWorksPage() {
       {/* Hero Section */}
       <section className="py-16 bg-gradient-to-br from-blue-50 to-white">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">How Green Dot Lending Works</h1>
+          <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">How Green Dot Finance Works</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Getting a personal loan with Green Dot Lending is simple, fast, and transparent. Here's how our process
+            Getting a personal loan with Green Dot Finance is simple, fast, and transparent. Here's how our process
             works from start to finish.
           </p>
         </div>
@@ -124,7 +124,7 @@ export default function HowItWorksPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join hundreds of thousands of satisfied customers who chose Green Dot Lending for their personal loan needs.
+            Join hundreds of thousands of satisfied customers who chose Green Dot Finance for their personal loan needs.
           </p>
           <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
             Check Your Rate Now

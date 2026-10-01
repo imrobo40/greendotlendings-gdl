@@ -50,7 +50,7 @@ export default function ContactPage() {
               <CardContent className="pt-6">
                 <Phone className="w-12 h-12 text-blue-500 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Phone</h3>
-                <p className="text-gray-600 mb-2">(850) 270-8634</p>
+                <p className="text-gray-600 mb-2">‪(619) 356-8731</p>
                 <p className="text-sm text-gray-500">Mon-Fri 8am-11pm ET</p>
                 <p className="text-sm text-gray-500">Sat-Sun 8am-8pm ET</p>
               </CardContent>
@@ -60,7 +60,7 @@ export default function ContactPage() {
               <CardContent className="pt-6">
                 <Mail className="w-12 h-12 text-blue-500 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Email</h3>
-                <p className="text-gray-600 mb-2">greendotlending1@gmail.com</p>
+                <p className="text-gray-600 mb-2">greendotfinance16@gmail.com</p>
                 <p className="text-sm text-gray-500">24/7 response</p>
                 <p className="text-sm text-gray-500">Typically within 24 hours</p>
               </CardContent>
@@ -80,7 +80,7 @@ export default function ContactPage() {
               <CardContent className="pt-6">
                 <MapPin className="w-12 h-12 text-blue-500 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Mail</h3>
-                <p className="text-gray-600 mb-2">Green Dot Lending</p>
+                <p className="text-gray-600 mb-2">Green Dot Finance</p>
                 <p className="text-sm text-gray-500">3201 Parkway Center Ct</p>
                 <p className="text-sm text-gray-500">Orlando, FL 32808</p>
               </CardContent>
@@ -196,7 +196,7 @@ export default function ContactPage() {
                     Frequently Asked Questions
                   </a>
                   <a href="/how-it-works" className="block text-blue-600 hover:text-blue-800">
-                    How Green Dot Lending Works
+                    How Green Dot Finance Works
                   </a>
                   <a href="/personal-loans" className="block text-blue-600 hover:text-blue-800">
                     Personal Loan Information
