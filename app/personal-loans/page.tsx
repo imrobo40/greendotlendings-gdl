@@ -91,7 +91,7 @@ export default function PersonalLoansPage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl font-bold text-gray-800 mb-6">
-                Why Choose Green Dot Finance Personal Loans?
+                Why Choose Green Dot Lending Personal Loans?
               </h2>
               <div className="space-y-4">
                 {[

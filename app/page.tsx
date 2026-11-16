@@ -25,7 +25,7 @@ export default function HomePage() {
               </h1>
               <p className="text-xl text-gray-600 mb-8">
                 Get the funds you need with competitive rates, no origination fees, and fast funding. Apply online in
-                minutes with Green Dot Finance.
+                minutes with Green Dot Lending.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/personal-loans">
@@ -65,7 +65,7 @@ export default function HomePage() {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">Why Choose Green Dot Finance?</h2>
+            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">Why Choose Green Dot Lending?</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               We make personal loans simple, transparent, and accessible for everyone.
             </p>
@@ -217,7 +217,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl lg:text-4xl font-bold text-white mb-4">Ready to Get Started?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers who chose Green Dot Finance for their personal loan needs.
+            Join thousands of satisfied customers who chose Green Dot Lending for their personal loan needs.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/personal-loans">

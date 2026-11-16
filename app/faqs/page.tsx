@@ -5,9 +5,9 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 export default function FAQsPage() {
   const faqs = [
     {
-      question: "What is Green Dot Finance?",
+      question: "What is Green Dot Lending?",
       answer:
-        "Green Dot Finance is a trusted online credit service provider offering unsecured personal loans with competitive rates and no fees to qualified borrowers.",
+        "Green Dot Lending is a trusted online credit service provider offering unsecured personal loans with competitive rates and no fees to qualified borrowers.",
     },
     {
       question: "How much can I borrow?",
@@ -15,14 +15,14 @@ export default function FAQsPage() {
         "You can borrow between $2,000 and $15,000, depending on your creditworthiness and ability to repay the loan.",
     },
     {
-      question: "What are Green Dot Finance's interest rates?",
+      question: "What are Green Dot Lending's interest rates?",
       answer:
         "Our rates range from 2.49% to 19.99% APR with AutoPay. Your actual rate depends on your credit profile, loan amount, and loan term.",
     },
     {
       question: "Are there any fees?",
       answer:
-        "No! Green Dot Finance doesn't charge origination fees, prepayment penalties, late fees, or any other fees.",
+        "No! Green Dot Lending doesn't charge origination fees, prepayment penalties, late fees, or any other fees.",
     },
     {
       question: "How fast can I get my money?",
@@ -32,12 +32,12 @@ export default function FAQsPage() {
     {
       question: "What can I use the loan for?",
       answer:
-        "You can use your Green Dot Finance loan for virtually any purpose, including debt consolidation, home improvement, major purchases, weddings, vacations, and more.",
+        "You can use your Green Dot Lending loan for virtually any purpose, including debt consolidation, home improvement, major purchases, weddings, vacations, and more.",
     },
     {
       question: "Do I need collateral?",
       answer:
-        "No, Green Dot Finance personal loans are unsecured, which means you don't need to put up collateral like your home or car.",
+        "No, Green Dot Lending personal loans are unsecured, which means you don't need to put up collateral like your home or car.",
     },
     {
       question: "What credit score do I need?",
@@ -75,7 +75,7 @@ export default function FAQsPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">Frequently Asked Questions</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Find answers to common questions about Green Dot Finance personal loans, our application process, and loan
+            Find answers to common questions about Green Dot Lending personal loans, our application process, and loan
             terms.
           </p>
         </div>
@@ -107,12 +107,12 @@ export default function FAQsPage() {
           <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             <div className="text-center">
               <h3 className="font-semibold text-gray-800 mb-2">Phone</h3>
-              <p className="text-gray-600">‪(619) 356-8731</p>
+              <p className="text-gray-600">‪(000) 000-0000</p>
               <p className="text-sm text-gray-500">Mon-Fri 8am-11pm ET</p>
             </div>
             <div className="text-center">
               <h3 className="font-semibold text-gray-800 mb-2">Email</h3>
-              <p className="text-gray-600">greendotfinance16@gmail.com</p>
+              <p className="text-gray-600">support@greendotlending.com</p>
               <p className="text-sm text-gray-500">24/7 response</p>
             </div>
             <div className="text-center">

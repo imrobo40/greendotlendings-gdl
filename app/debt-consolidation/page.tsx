@@ -113,7 +113,7 @@ export default function DebtConsolidationPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Consolidate Your Debt?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Take control of your finances with a Green Dot Finance debt consolidation loan.
+            Take control of your finances with a Green Dot Lending debt consolidation loan.
           </p>
           <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
             Check Your Rate Now

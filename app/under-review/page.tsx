@@ -133,12 +133,12 @@ export default function UnderReviewPage() {
               <div className="grid md:grid-cols-3 gap-6">
                 <div>
                   <h4 className="font-semibold mb-2">Phone</h4>
-                  <p className="text-blue-600">‪(619) 356-8731</p>
+                  <p className="text-blue-600">‪(000) 000-0000</p>
                   <p className="text-xs text-gray-500">Mon-Fri 8am-11pm ET</p>
                 </div>
                 <div>
                   <h4 className="font-semibold mb-2">Email</h4>
-                  <p className="text-blue-600">greendotfinance16@gmail.com</p>
+                  <p className="text-blue-600">support@greendotlending.com</p>
                   <p className="text-xs text-gray-500">24/7 response</p>
                 </div>
                 <div>

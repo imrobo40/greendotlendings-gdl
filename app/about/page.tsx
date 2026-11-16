@@ -11,7 +11,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="py-16 bg-gradient-to-br from-blue-50 to-white">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">About Green Dot Finance</h1>
+          <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">About Green Dot Lending</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             America's trusted online credit service, helping people achieve their financial goals with competitive
             personal loans and exceptional customer service.
@@ -25,7 +25,7 @@ export default function AboutPage() {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-800 mb-6">Our Mission</h2>
             <p className="text-lg text-gray-600 mb-8">
-              At Green Dot Finance, we believe everyone deserves access to fair, transparent, and affordable credit.
+              At Green Dot Lending, we believe everyone deserves access to fair, transparent, and affordable credit.
               We're committed to providing personal loans that help our customers consolidate debt, make major
               purchases, improve their homes, and achieve their financial dreams.
             </p>

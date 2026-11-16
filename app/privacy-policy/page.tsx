@@ -83,9 +83,9 @@ export default function PrivacyPolicyPage() {
                 If you have questions about this Privacy Policy or our data practices, please contact us:
               </p>
               <div className="text-gray-600">
-                <p>Email: greendotfinance16@gmail.com</p>
-                <p>Phone: ‪(619) 356-8731</p>
-                <p>Mail: Green Dot Finance Privacy Office, P.O. Box 6000, Charlotte, NC 28285</p>
+                <p>Email: support@greendotlending.com</p>
+                <p>Phone: ‪(000) 000-0000</p>
+                <p>Mail: Green Dot Lending Privacy Office, P.O. Box 6000, Charlotte, NC 28285</p>
               </div>
             </section>
           </div>

@@ -94,7 +94,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm">© 2026 Green Dot Finance. All rights reserved.</p>
+          <p className="text-gray-400 text-sm">© 2026 Green Dot Lending. All rights reserved.</p>
         </div>
       </div>
     </footer>

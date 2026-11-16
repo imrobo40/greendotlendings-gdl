@@ -8,7 +8,7 @@ export function Footer() {
         <div className="text-center">
           <Image
             src="/logo.png"
-            alt="Green Dot Finance - Personal Loans"
+            alt="Green Dot Lending - Personal Loans"
             width={200}
             height={50}
             className="h-auto mx-auto mb-4"
@@ -27,7 +27,7 @@ export function Footer() {
               Contact Us
             </Link>
           </div>
-          <p className="text-gray-400 text-xs mt-4">© 2026 Green Dot Finance. All rights reserved.</p>
+          <p className="text-gray-400 text-xs mt-4">© 2026 Green Dot Lending. All rights reserved.</p>
         </div>
       </div>
     </footer>

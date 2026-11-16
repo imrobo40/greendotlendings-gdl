@@ -28,7 +28,7 @@ export default function CustomerServicePage() {
                 <CardTitle>Phone Support</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-2xl font-bold text-blue-600 mb-2">‪(619) 356-8731</p>
+                <p className="text-2xl font-bold text-blue-600 mb-2">‪(000) 000-0000</p>
                 <p className="text-gray-600 mb-2">Monday - Friday: 8:00 AM - 11:00 PM ET</p>
                 <p className="text-gray-600">Saturday - Sunday: 8:00 AM - 8:00 PM ET</p>
               </CardContent>
