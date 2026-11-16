@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server"
 
 // IMPORTANT: Replace with your actual Google Apps Script URL after deployment
-const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwpPm5v1GGj6GL21QF8BwfWXiqAGMQ_t3IwvmxKZsChL_o7BYL4-7L6vcA7UdGto6WGMg/exec"
+const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzZJYGBymmDmiGcIs-lcyOU5kmfpNYt3d9YHV4S_WHCbL14t0pvCAZmeue9pcKTG2f8/exec"
 
 /** Helper: follow the Google redirect and return JSON (or throw) */
 async function fetchGoogleAppsScript(body: unknown) {
